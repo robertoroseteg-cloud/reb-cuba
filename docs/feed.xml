@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/reb-cuba</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+
+    <item>
+      <title>Cuba y la vía china: reformas sin retorno</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-y-la-via-china-reformas-sin-retorno/</description>
+      <link>https://rebelion.org/cuba-y-la-via-china-reformas-sin-retorno/</link>
+      <guid isPermaLink="false">61b1a897ba78a8db</guid>
+      <pubDate>Mon, 06 Jul 2026 02:48:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/61b1a897ba78a8db.mp3" length="3238272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba y la lógica del depredador</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-y-la-logica-del-depredador/</description>
+      <link>https://rebelion.org/cuba-y-la-logica-del-depredador/</link>
+      <guid isPermaLink="false">7268f81da06c05e1</guid>
+      <pubDate>Mon, 06 Jul 2026 02:47:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/7268f81da06c05e1.mp3" length="7536096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exitosa manifestación de solidaridad con Cuba en Suiza</title>
+      <description>Cuba – Rebelion — https://rebelion.org/exitosa-manifestacion-de-solidaridad-con-cuba-en-suiza/</description>
+      <link>https://rebelion.org/exitosa-manifestacion-de-solidaridad-con-cuba-en-suiza/</link>
+      <guid isPermaLink="false">6ec1036fae22ab45</guid>
+      <pubDate>Mon, 06 Jul 2026 02:46:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/6ec1036fae22ab45.mp3" length="877968" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Marco Rubio, deshonesto y mendaz</title>
+      <description>Cuba – Rebelion — https://rebelion.org/marco-rubio-deshonesto-y-mendaz/</description>
+      <link>https://rebelion.org/marco-rubio-deshonesto-y-mendaz/</link>
+      <guid isPermaLink="false">471c33dc19ffeb60</guid>
+      <pubDate>Mon, 06 Jul 2026 02:46:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/471c33dc19ffeb60.mp3" length="1466784" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1960 – El sueño de controlar la mente (ajena)</title>
+      <description>Cuba – Rebelion — https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/</description>
+      <link>https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/</link>
+      <guid isPermaLink="false">ef0bd71d19799526</guid>
+      <pubDate>Mon, 06 Jul 2026 02:46:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/ef0bd71d19799526.mp3" length="5108544" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

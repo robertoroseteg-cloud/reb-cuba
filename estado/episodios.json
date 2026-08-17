@@ -1,5 +1,23 @@
 [
   {
+    "id": "011388eca9934f23",
+    "titulo": "Entre la parálisis y la resistencia: el turismo cubano en verano",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/",
+    "archivo": "011388eca9934f23.mp3",
+    "bytes": 2808432,
+    "timestamp": 1786970803
+  },
+  {
+    "id": "ddffb8dc58aab0c3",
+    "titulo": "La infiltración antillana de Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-infiltracion-antillana-de-cuba/",
+    "archivo": "ddffb8dc58aab0c3.mp3",
+    "bytes": 4662720,
+    "timestamp": 1786970774
+  },
+  {
     "id": "87a97db0542ebd60",
     "titulo": "Fidel nos mira desde la historia",
     "fuente": "Cuba – Rebelion",
@@ -340,14 +358,5 @@
     "archivo": "471c33dc19ffeb60.mp3",
     "bytes": 1466784,
     "timestamp": 1783306002
-  },
-  {
-    "id": "ef0bd71d19799526",
-    "titulo": "1960 – El sueño de controlar la mente (ajena)",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/",
-    "archivo": "ef0bd71d19799526.mp3",
-    "bytes": 5108544,
-    "timestamp": 1783305991
   }
 ]

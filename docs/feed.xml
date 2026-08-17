@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Entre la parálisis y la resistencia: el turismo cubano en verano</title>
+      <description>Cuba – Rebelion — https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</description>
+      <link>https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</link>
+      <guid isPermaLink="false">011388eca9934f23</guid>
+      <pubDate>Mon, 17 Aug 2026 12:46:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/011388eca9934f23.mp3" length="2808432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La infiltración antillana de Cuba</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-infiltracion-antillana-de-cuba/</description>
+      <link>https://rebelion.org/la-infiltracion-antillana-de-cuba/</link>
+      <guid isPermaLink="false">ddffb8dc58aab0c3</guid>
+      <pubDate>Mon, 17 Aug 2026 12:46:14 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/ddffb8dc58aab0c3.mp3" length="4662720" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel nos mira desde la historia</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-nos-mira-desde-la-historia/</description>
       <link>https://rebelion.org/fidel-nos-mira-desde-la-historia/</link>
@@ -310,14 +326,6 @@
       <guid isPermaLink="false">471c33dc19ffeb60</guid>
       <pubDate>Mon, 06 Jul 2026 02:46:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/471c33dc19ffeb60.mp3" length="1466784" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>1960 – El sueño de controlar la mente (ajena)</title>
-      <description>Cuba – Rebelion — https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/</description>
-      <link>https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/</link>
-      <guid isPermaLink="false">ef0bd71d19799526</guid>
-      <pubDate>Mon, 06 Jul 2026 02:46:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/ef0bd71d19799526.mp3" length="5108544" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Fidel: cien años que no cesan de nacer</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/</description>
+      <link>https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/</link>
+      <guid isPermaLink="false">e5e78c341e0ff0ed</guid>
+      <pubDate>Tue, 18 Aug 2026 12:49:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/e5e78c341e0ff0ed.mp3" length="3142800" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Entre la parálisis y la resistencia: el turismo cubano en verano</title>
       <description>Cuba – Rebelion — https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</description>
       <link>https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">6ec1036fae22ab45</guid>
       <pubDate>Mon, 06 Jul 2026 02:46:48 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/6ec1036fae22ab45.mp3" length="877968" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Marco Rubio, deshonesto y mendaz</title>
-      <description>Cuba – Rebelion — https://rebelion.org/marco-rubio-deshonesto-y-mendaz/</description>
-      <link>https://rebelion.org/marco-rubio-deshonesto-y-mendaz/</link>
-      <guid isPermaLink="false">471c33dc19ffeb60</guid>
-      <pubDate>Mon, 06 Jul 2026 02:46:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/471c33dc19ffeb60.mp3" length="1466784" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

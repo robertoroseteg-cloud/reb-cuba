@@ -1,5 +1,14 @@
 [
   {
+    "id": "e5e78c341e0ff0ed",
+    "titulo": "Fidel: cien años que no cesan de nacer",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/",
+    "archivo": "e5e78c341e0ff0ed.mp3",
+    "bytes": 3142800,
+    "timestamp": 1787057347
+  },
+  {
     "id": "011388eca9934f23",
     "titulo": "Entre la parálisis y la resistencia: el turismo cubano en verano",
     "fuente": "Cuba – Rebelion",
@@ -349,14 +358,5 @@
     "archivo": "6ec1036fae22ab45.mp3",
     "bytes": 877968,
     "timestamp": 1783306008
-  },
-  {
-    "id": "471c33dc19ffeb60",
-    "titulo": "Marco Rubio, deshonesto y mendaz",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/marco-rubio-deshonesto-y-mendaz/",
-    "archivo": "471c33dc19ffeb60.mp3",
-    "bytes": 1466784,
-    "timestamp": 1783306002
   }
 ]

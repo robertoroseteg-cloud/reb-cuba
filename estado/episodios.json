@@ -1,5 +1,23 @@
 [
   {
+    "id": "7d31262b259d8736",
+    "titulo": "«La historia me absolverá»",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-historia-me-absolvera-3/",
+    "archivo": "7d31262b259d8736.mp3",
+    "bytes": 4667760,
+    "timestamp": 1787230446
+  },
+  {
+    "id": "26688f426d0b03a2",
+    "titulo": "El legado de Fidel Castro entre el desamparo y la especie",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/el-legado-de-fidel-castro-entre-el-desamparo-y-la-especie/",
+    "archivo": "26688f426d0b03a2.mp3",
+    "bytes": 13079376,
+    "timestamp": 1787230402
+  },
+  {
     "id": "e5e78c341e0ff0ed",
     "titulo": "Fidel: cien años que no cesan de nacer",
     "fuente": "Cuba – Rebelion",
@@ -340,23 +358,5 @@
     "archivo": "61b1a897ba78a8db.mp3",
     "bytes": 3238272,
     "timestamp": 1783306112
-  },
-  {
-    "id": "7268f81da06c05e1",
-    "titulo": "Cuba y la lógica del depredador",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-y-la-logica-del-depredador/",
-    "archivo": "7268f81da06c05e1.mp3",
-    "bytes": 7536096,
-    "timestamp": 1783306075
-  },
-  {
-    "id": "6ec1036fae22ab45",
-    "titulo": "Exitosa manifestación de solidaridad con Cuba en Suiza",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/exitosa-manifestacion-de-solidaridad-con-cuba-en-suiza/",
-    "archivo": "6ec1036fae22ab45.mp3",
-    "bytes": 877968,
-    "timestamp": 1783306008
   }
 ]

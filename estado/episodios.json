@@ -1,5 +1,32 @@
 [
   {
+    "id": "960a907e0813d245",
+    "titulo": "Estados Unidos, y el deterioro de las condiciones de vida en Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/estados-unidos-y-el-deterioro-de-las-condiciones-de-vida-en-cuba/",
+    "archivo": "960a907e0813d245.mp3",
+    "bytes": 14112864,
+    "timestamp": 1787402681
+  },
+  {
+    "id": "3bb85cd39878c0a4",
+    "titulo": "Estados Unidos apunta ahora al suministro de alimentos de Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/estados-unidos-apunta-ahora-al-suministro-de-alimentos-de-cuba/",
+    "archivo": "3bb85cd39878c0a4.mp3",
+    "bytes": 5731344,
+    "timestamp": 1787402487
+  },
+  {
+    "id": "1be936f870771216",
+    "titulo": "La vigencia plena del legado de José Martí",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-vigencia-plena-del-legado-de-jose-marti/",
+    "archivo": "1be936f870771216.mp3",
+    "bytes": 1967616,
+    "timestamp": 1787402443
+  },
+  {
     "id": "9e6906a85b62210e",
     "titulo": "¿Por qué las nuevas medidas económicas violan la Constitución?",
     "fuente": "Cuba – Rebelion",
@@ -331,32 +358,5 @@
     "archivo": "ca470a4b6ef594f2.mp3",
     "bytes": 2570400,
     "timestamp": 1783364801
-  },
-  {
-    "id": "17c042488784f15d",
-    "titulo": "Mortalidad infantil aumenta en Cuba debido a la guerra económica de Estados Unidos, apunta informe oficial",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/mortalidad-infantil-aumenta-en-cuba-debido-a-la-guerra-economica-de-estados-unidos-apunta-informe-oficial/",
-    "archivo": "17c042488784f15d.mp3",
-    "bytes": 2818656,
-    "timestamp": 1783364768
-  },
-  {
-    "id": "f2780794ba869c3c",
-    "titulo": "La resolución de la vergüenza del Parlamento Europeo",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-resolucion-de-la-verguenza-del-parlamento-europeo/",
-    "archivo": "f2780794ba869c3c.mp3",
-    "bytes": 2167056,
-    "timestamp": 1783364748
-  },
-  {
-    "id": "1c681bed20ecb41c",
-    "titulo": "La Revolución se reforma para resistir la asfixia imperial",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-revolucion-se-reforma-para-resistir-la-asfixia-imperial/",
-    "archivo": "1c681bed20ecb41c.mp3",
-    "bytes": 2678976,
-    "timestamp": 1783364723
   }
 ]

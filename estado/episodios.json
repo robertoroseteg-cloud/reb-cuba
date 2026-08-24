@@ -1,5 +1,32 @@
 [
   {
+    "id": "f6fab279be3cd4b4",
+    "titulo": "Fidel Castro: el líder en su centenario",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-castro-el-lider-en-su-centenario/",
+    "archivo": "f6fab279be3cd4b4.mp3",
+    "bytes": 4323888,
+    "timestamp": 1787576203
+  },
+  {
+    "id": "cdac1070dbf5664c",
+    "titulo": "Cuba, el asedio y los cooperadores necesarios",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/",
+    "archivo": "cdac1070dbf5664c.mp3",
+    "bytes": 9685152,
+    "timestamp": 1787576124
+  },
+  {
+    "id": "16f0b6a3ae31e328",
+    "titulo": "638 intentos de asesinar a un desalineado",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/638-intentos-de-asesinar-a-un-desalineado/",
+    "archivo": "16f0b6a3ae31e328.mp3",
+    "bytes": 6606432,
+    "timestamp": 1787576032
+  },
+  {
     "id": "960a907e0813d245",
     "titulo": "Estados Unidos, y el deterioro de las condiciones de vida en Cuba",
     "fuente": "Cuba – Rebelion",
@@ -331,32 +358,5 @@
     "archivo": "b37baea9d296e558.mp3",
     "bytes": 7588080,
     "timestamp": 1783530847
-  },
-  {
-    "id": "c92e3fb74c148510",
-    "titulo": "Guerra híbrida y desinformación",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/guerra-hibrida-y-desinformacion/",
-    "archivo": "c92e3fb74c148510.mp3",
-    "bytes": 2304576,
-    "timestamp": 1783451873
-  },
-  {
-    "id": "720f120e7a779c8d",
-    "titulo": "El proyecto martiano de transformación cultural civilizatoria: visiones comparadas",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/el-proyecto-martiano-de-transformacion-cultural-civilizatoria-visiones-comparadas/",
-    "archivo": "720f120e7a779c8d.mp3",
-    "bytes": 7563312,
-    "timestamp": 1783364886
-  },
-  {
-    "id": "ca470a4b6ef594f2",
-    "titulo": "Cuba recibe nuevo apoyo en la Conferencia Labor Notes de Activistas Obreros",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-recibe-nuevo-apoyo-en-la-conferencia-labor-notes-de-activistas-obreros/",
-    "archivo": "ca470a4b6ef594f2.mp3",
-    "bytes": 2570400,
-    "timestamp": 1783364801
   }
 ]

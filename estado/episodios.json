@@ -1,5 +1,23 @@
 [
   {
+    "id": "e76fa79c5f4f2737",
+    "titulo": "Cuba, a pesar del imperialismo gringo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/",
+    "archivo": "e76fa79c5f4f2737.mp3",
+    "bytes": 1719360,
+    "timestamp": 1787662241
+  },
+  {
+    "id": "e93646d2cabaee91",
+    "titulo": "Cuba al límite: por qué Estados Unidos ahoga a la isla más que nunca",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/",
+    "archivo": "e93646d2cabaee91.mp3",
+    "bytes": 3227904,
+    "timestamp": 1787662205
+  },
+  {
     "id": "f6fab279be3cd4b4",
     "titulo": "Fidel Castro: el líder en su centenario",
     "fuente": "Cuba – Rebelion",
@@ -340,23 +358,5 @@
     "archivo": "150afd0603cfc0be.mp3",
     "bytes": 4213728,
     "timestamp": 1783621774
-  },
-  {
-    "id": "d846819233e12bc6",
-    "titulo": "Turismo cubano: las medidas que cambian sus reglas desde 2026",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/turismo-cubano-las-medidas-que-cambian-sus-reglas-desde-2026/",
-    "archivo": "d846819233e12bc6.mp3",
-    "bytes": 3530448,
-    "timestamp": 1783621736
-  },
-  {
-    "id": "b37baea9d296e558",
-    "titulo": "Encuentro Estatal de Solidaridad con Cuba lleva la denuncia del bloqueo a la Semana Negra de Gijón",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/",
-    "archivo": "b37baea9d296e558.mp3",
-    "bytes": 7588080,
-    "timestamp": 1783530847
   }
 ]

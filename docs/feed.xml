@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Gaza 2.0</title>
+      <description>Cuba – Rebelion — https://rebelion.org/gaza-2-0/</description>
+      <link>https://rebelion.org/gaza-2-0/</link>
+      <guid isPermaLink="false">cc4696d15f3a90e4</guid>
+      <pubDate>Wed, 26 Aug 2026 12:53:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/cc4696d15f3a90e4.mp3" length="1221696" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuba, a pesar del imperialismo gringo</title>
       <description>Cuba – Rebelion — https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</description>
       <link>https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">a7b3ccbb8560c86b</guid>
       <pubDate>Fri, 10 Jul 2026 18:09:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/a7b3ccbb8560c86b.mp3" length="4135248" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Proisraelíes y cubanoamericanos: Marco Rubio y sus inversionistas</title>
-      <description>Cuba – Rebelion — https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/</description>
-      <link>https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/</link>
-      <guid isPermaLink="false">150afd0603cfc0be</guid>
-      <pubDate>Thu, 09 Jul 2026 18:29:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/150afd0603cfc0be.mp3" length="4213728" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

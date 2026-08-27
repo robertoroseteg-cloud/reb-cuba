@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Fidel, ciencia y soberanía</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-ciencia-y-soberania/</description>
+      <link>https://rebelion.org/fidel-ciencia-y-soberania/</link>
+      <guid isPermaLink="false">245efb5ef7d805a3</guid>
+      <pubDate>Thu, 27 Aug 2026 21:55:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/245efb5ef7d805a3.mp3" length="9516096" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Gaza 2.0</title>
       <description>Cuba – Rebelion — https://rebelion.org/gaza-2-0/</description>
       <link>https://rebelion.org/gaza-2-0/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">0ff8166ba5eac747</guid>
       <pubDate>Sat, 11 Jul 2026 15:33:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/0ff8166ba5eac747.mp3" length="2706048" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El bloqueo criminal y genocida asfixia y mata de manera silenciosa</title>
-      <description>Cuba – Rebelion — https://rebelion.org/el-bloqueo-criminal-y-genocida-asfixia-y-mata-de-manera-silenciosa/</description>
-      <link>https://rebelion.org/el-bloqueo-criminal-y-genocida-asfixia-y-mata-de-manera-silenciosa/</link>
-      <guid isPermaLink="false">a7b3ccbb8560c86b</guid>
-      <pubDate>Fri, 10 Jul 2026 18:09:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/a7b3ccbb8560c86b.mp3" length="4135248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

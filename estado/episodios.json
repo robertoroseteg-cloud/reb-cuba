@@ -1,5 +1,14 @@
 [
   {
+    "id": "2500d411c320d357",
+    "titulo": "La defensa de Cuba y el socialismo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/",
+    "archivo": "2500d411c320d357.mp3",
+    "bytes": 3621744,
+    "timestamp": 1787953681
+  },
+  {
     "id": "245efb5ef7d805a3",
     "titulo": "Fidel, ciencia y soberanía",
     "fuente": "Cuba – Rebelion",
@@ -349,14 +358,5 @@
     "archivo": "98c92f0fd8c48085.mp3",
     "bytes": 6776352,
     "timestamp": 1783966844
-  },
-  {
-    "id": "0ff8166ba5eac747",
-    "titulo": "El Gobierno cubano detalla la reforma empresarial y propone una «alta interrelación» entre los sectores público y privado",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/el-gobierno-cubano-detalla-la-reforma-empresarial-y-propone-una-alta-interrelacion-entre-los-sectores-publico-y-privado/",
-    "archivo": "0ff8166ba5eac747.mp3",
-    "bytes": 2706048,
-    "timestamp": 1783784031
   }
 ]

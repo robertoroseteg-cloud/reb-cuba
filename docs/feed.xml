@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>La crítica de la economía política y su horizonte revolucionario</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</description>
+      <link>https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</link>
+      <guid isPermaLink="false">18850978e2fe8099</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/18850978e2fe8099.mp3" length="3647520" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La defensa de Cuba y el socialismo</title>
       <description>Cuba – Rebelion — https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/</description>
       <link>https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">9a7124293f6877ab</guid>
       <pubDate>Thu, 16 Jul 2026 16:51:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/9a7124293f6877ab.mp3" length="3162816" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sartre y la revolución cubana</title>
-      <description>Cuba – Rebelion — https://rebelion.org/sartre-y-la-revolucion-cubana/</description>
-      <link>https://rebelion.org/sartre-y-la-revolucion-cubana/</link>
-      <guid isPermaLink="false">98c92f0fd8c48085</guid>
-      <pubDate>Mon, 13 Jul 2026 18:20:44 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/98c92f0fd8c48085.mp3" length="6776352" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

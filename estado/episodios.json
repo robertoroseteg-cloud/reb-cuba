@@ -1,5 +1,14 @@
 [
   {
+    "id": "9a5d3e8ce086946a",
+    "titulo": "Martí en la Revolución cubana",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/marti-en-la-revolucion-cubana/",
+    "archivo": "9a5d3e8ce086946a.mp3",
+    "bytes": 22564080,
+    "timestamp": 1788202687
+  },
+  {
     "id": "18850978e2fe8099",
     "titulo": "La crítica de la economía política y su horizonte revolucionario",
     "fuente": "Cuba – Rebelion",
@@ -349,14 +358,5 @@
     "archivo": "d49875b732d4ae47.mp3",
     "bytes": 1984752,
     "timestamp": 1784220683
-  },
-  {
-    "id": "9a7124293f6877ab",
-    "titulo": "Bloqueo, asedio y transformación socialista (II)",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/",
-    "archivo": "9a7124293f6877ab.mp3",
-    "bytes": 3162816,
-    "timestamp": 1784220664
   }
 ]

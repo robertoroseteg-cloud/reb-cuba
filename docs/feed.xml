@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Martí en la Revolución cubana</title>
+      <description>Cuba – Rebelion — https://rebelion.org/marti-en-la-revolucion-cubana/</description>
+      <link>https://rebelion.org/marti-en-la-revolucion-cubana/</link>
+      <guid isPermaLink="false">9a5d3e8ce086946a</guid>
+      <pubDate>Mon, 31 Aug 2026 18:58:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/9a5d3e8ce086946a.mp3" length="22564080" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La crítica de la economía política y su horizonte revolucionario</title>
       <description>Cuba – Rebelion — https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</description>
       <link>https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">d49875b732d4ae47</guid>
       <pubDate>Thu, 16 Jul 2026 16:51:23 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/d49875b732d4ae47.mp3" length="1984752" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Bloqueo, asedio y transformación socialista (II)</title>
-      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/</description>
-      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/</link>
-      <guid isPermaLink="false">9a7124293f6877ab</guid>
-      <pubDate>Thu, 16 Jul 2026 16:51:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/9a7124293f6877ab.mp3" length="3162816" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

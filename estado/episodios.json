@@ -1,5 +1,32 @@
 [
   {
+    "id": "df21155e9fb229d9",
+    "titulo": "«La Alianza de los Estados del Sahel sigue el mismo camino que Cuba»",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/la-alianza-de-los-estados-del-sahel-sigue-el-mismo-camino-que-cuba/",
+    "archivo": "df21155e9fb229d9.mp3",
+    "bytes": 182304,
+    "timestamp": 1792857175
+  },
+  {
+    "id": "f711e2592f6c1312",
+    "titulo": "Miserabilizar para someter: el recurso del método de EEUU hacia Cuba",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/miserabilizar-para-someter-el-recurso-del-metodo-de-eeuu-hacia-cuba/",
+    "archivo": "f711e2592f6c1312.mp3",
+    "bytes": 189792,
+    "timestamp": 1792856452
+  },
+  {
+    "id": "2fc30a88a41d6a29",
+    "titulo": "Contribución histórica y llamado de la época de Fidel Castro",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/contribucion-historica-y-llamado-de-la-epoca-de-fidel-castro/",
+    "archivo": "2fc30a88a41d6a29.mp3",
+    "bytes": 23235696,
+    "timestamp": 1792856209
+  },
+  {
     "id": "9a5d3e8ce086946a",
     "titulo": "Martí en la Revolución cubana",
     "fuente": "Cuba – Rebelion",
@@ -331,32 +358,5 @@
     "archivo": "9c162d8f6e3f7bda.mp3",
     "bytes": 1740096,
     "timestamp": 1784739650
-  },
-  {
-    "id": "fc5f3a78e4555e7e",
-    "titulo": "Bloqueo, asedio y transformación socialista (III)",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-iii/",
-    "archivo": "fc5f3a78e4555e7e.mp3",
-    "bytes": 7030800,
-    "timestamp": 1784306315
-  },
-  {
-    "id": "69b8e9b7b69900e6",
-    "titulo": "Bloqueo, asedio y transformación socialista (I)",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-i/",
-    "archivo": "69b8e9b7b69900e6.mp3",
-    "bytes": 5721264,
-    "timestamp": 1784220739
-  },
-  {
-    "id": "d49875b732d4ae47",
-    "titulo": "¿Cuba, camino al capitalismo?",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-camino-al-capitalismo/",
-    "archivo": "d49875b732d4ae47.mp3",
-    "bytes": 1984752,
-    "timestamp": 1784220683
   }
 ]

@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Vasallaje o exterminio vs. resistencia y dignidad</title>
+      <description>Rebelión · Cuba — https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/</description>
+      <link>https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/</link>
+      <guid isPermaLink="false">cdaff47c4291a46c</guid>
+      <pubDate>Tue, 27 Oct 2026 17:38:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/cdaff47c4291a46c.mp3" length="2252592" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«La Alianza de los Estados del Sahel sigue el mismo camino que Cuba»</title>
       <description>Rebelión · Cuba — https://rebelion.org/la-alianza-de-los-estados-del-sahel-sigue-el-mismo-camino-que-cuba/</description>
       <link>https://rebelion.org/la-alianza-de-los-estados-del-sahel-sigue-el-mismo-camino-que-cuba/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">a1542202e937916e</guid>
       <pubDate>Wed, 22 Jul 2026 17:00:57 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/a1542202e937916e.mp3" length="728496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Para caminar junto a Fidel</title>
-      <description>Cuba – Rebelion — https://rebelion.org/para-caminar-junto-a-fidel/</description>
-      <link>https://rebelion.org/para-caminar-junto-a-fidel/</link>
-      <guid isPermaLink="false">9c162d8f6e3f7bda</guid>
-      <pubDate>Wed, 22 Jul 2026 17:00:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/9c162d8f6e3f7bda.mp3" length="1740096" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

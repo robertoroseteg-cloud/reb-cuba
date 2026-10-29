@@ -1,5 +1,14 @@
 [
   {
+    "id": "68cd965480898eb0",
+    "titulo": "La hora de Cuba en Naciones Unidas",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/",
+    "archivo": "68cd965480898eb0.mp3",
+    "bytes": 1391616,
+    "timestamp": 1793297347
+  },
+  {
     "id": "66121063cb236b45",
     "titulo": "Van contra Cuba… y contra la humanidad",
     "fuente": "Rebelión · Cuba",
@@ -349,14 +358,5 @@
     "archivo": "3207e460a57b6bf0.mp3",
     "bytes": 2601648,
     "timestamp": 1784826392
-  },
-  {
-    "id": "091b34de3cd31ad2",
-    "titulo": "Cuba resiste una guerra no convencional",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/nos-intentan-agredir-desde-el-norte/",
-    "archivo": "091b34de3cd31ad2.mp3",
-    "bytes": 12624336,
-    "timestamp": 1784826362
   }
 ]

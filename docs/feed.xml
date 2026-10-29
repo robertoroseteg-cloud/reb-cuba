@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>La hora de Cuba en Naciones Unidas</title>
+      <description>Rebelión · Cuba — https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</description>
+      <link>https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</link>
+      <guid isPermaLink="false">68cd965480898eb0</guid>
+      <pubDate>Thu, 29 Oct 2026 18:09:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/68cd965480898eb0.mp3" length="1391616" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Van contra Cuba… y contra la humanidad</title>
       <description>Rebelión · Cuba — https://rebelion.org/van-contra-cuba-y-contra-la-humanidad/</description>
       <link>https://rebelion.org/van-contra-cuba-y-contra-la-humanidad/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">3207e460a57b6bf0</guid>
       <pubDate>Thu, 23 Jul 2026 17:06:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/3207e460a57b6bf0.mp3" length="2601648" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba resiste una guerra no convencional</title>
-      <description>Cuba – Rebelion — https://rebelion.org/nos-intentan-agredir-desde-el-norte/</description>
-      <link>https://rebelion.org/nos-intentan-agredir-desde-el-norte/</link>
-      <guid isPermaLink="false">091b34de3cd31ad2</guid>
-      <pubDate>Thu, 23 Jul 2026 17:06:02 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/091b34de3cd31ad2.mp3" length="12624336" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

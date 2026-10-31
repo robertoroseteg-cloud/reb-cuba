@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>La impronta de Fidel Castro en la gestión pública en la sociedad cubana</title>
+      <description>Rebelión · Cuba — https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</description>
+      <link>https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</link>
+      <guid isPermaLink="false">b04aff003a958f2c</guid>
+      <pubDate>Sat, 31 Oct 2026 17:01:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/b04aff003a958f2c.mp3" length="5406480" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba ante la razón genocida (Parte I)</title>
+      <description>Rebelión · Cuba — https://rebelion.org/cuba-ante-la-razon-genocida-parte-i/</description>
+      <link>https://rebelion.org/cuba-ante-la-razon-genocida-parte-i/</link>
+      <guid isPermaLink="false">377ccbbd2c911400</guid>
+      <pubDate>Sat, 31 Oct 2026 16:59:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/377ccbbd2c911400.mp3" length="10314576" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La hora de Cuba en Naciones Unidas</title>
       <description>Rebelión · Cuba — https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</description>
       <link>https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">13cf09081fb4ae71</guid>
       <pubDate>Mon, 27 Jul 2026 18:00:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/13cf09081fb4ae71.mp3" length="2848032" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>EE.UU. contra Cuba: el motor de una «izquierda terrorista» mundial</title>
-      <description>Cuba – Rebelion — https://rebelion.org/ee-uu-contra-cuba-el-motor-de-una-izquierda-terrorista-mundial/</description>
-      <link>https://rebelion.org/ee-uu-contra-cuba-el-motor-de-una-izquierda-terrorista-mundial/</link>
-      <guid isPermaLink="false">ab271e5dce49b9e8</guid>
-      <pubDate>Fri, 24 Jul 2026 17:15:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/ab271e5dce49b9e8.mp3" length="3007296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Contra Cuba y todos los que no se someten</title>
-      <description>Cuba – Rebelion — https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</description>
-      <link>https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</link>
-      <guid isPermaLink="false">3207e460a57b6bf0</guid>
-      <pubDate>Thu, 23 Jul 2026 17:06:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/3207e460a57b6bf0.mp3" length="2601648" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

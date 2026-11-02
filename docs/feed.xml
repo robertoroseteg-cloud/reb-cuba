@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Lo que esconde el cartel de la embajada estadounidense</title>
+      <description>Rebelión · Cuba — https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/</description>
+      <link>https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/</link>
+      <guid isPermaLink="false">be71bbe5d184076f</guid>
+      <pubDate>Mon, 02 Nov 2026 21:30:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/be71bbe5d184076f.mp3" length="1398672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>De la última broma macabra de Trump a la inmediata tarea de Marcos Rubio</title>
+      <description>Rebelión · Cuba — https://rebelion.org/de-la-ultima-broma-macabra-de-trump-a-la-inmediata-tarea-de-marcos-rubio/</description>
+      <link>https://rebelion.org/de-la-ultima-broma-macabra-de-trump-a-la-inmediata-tarea-de-marcos-rubio/</link>
+      <guid isPermaLink="false">0fcd169a226c72a6</guid>
+      <pubDate>Mon, 02 Nov 2026 21:30:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/0fcd169a226c72a6.mp3" length="1637856" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La impronta de Fidel Castro en la gestión pública en la sociedad cubana</title>
       <description>Rebelión · Cuba — https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</description>
       <link>https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">b86e37725bedc6ec</guid>
       <pubDate>Tue, 04 Aug 2026 14:16:02 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/b86e37725bedc6ec.mp3" length="6864768" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una educación desde y al servicio del pueblo</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/</description>
-      <link>https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/</link>
-      <guid isPermaLink="false">12333baa925f41e3</guid>
-      <pubDate>Mon, 27 Jul 2026 18:01:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/12333baa925f41e3.mp3" length="2479824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La farsa del informe contra Cuba</title>
-      <description>Cuba – Rebelion — https://rebelion.org/la-farsa-del-informe-contra-cuba/</description>
-      <link>https://rebelion.org/la-farsa-del-informe-contra-cuba/</link>
-      <guid isPermaLink="false">13cf09081fb4ae71</guid>
-      <pubDate>Mon, 27 Jul 2026 18:00:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/13cf09081fb4ae71.mp3" length="2848032" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
   {
+    "id": "be71bbe5d184076f",
+    "titulo": "Lo que esconde el cartel de la embajada estadounidense",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/",
+    "archivo": "be71bbe5d184076f.mp3",
+    "bytes": 1398672,
+    "timestamp": 1793655023
+  },
+  {
+    "id": "0fcd169a226c72a6",
+    "titulo": "De la última broma macabra de Trump a la inmediata tarea de Marcos Rubio",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/de-la-ultima-broma-macabra-de-trump-a-la-inmediata-tarea-de-marcos-rubio/",
+    "archivo": "0fcd169a226c72a6.mp3",
+    "bytes": 1637856,
+    "timestamp": 1793655009
+  },
+  {
     "id": "b04aff003a958f2c",
     "titulo": "La impronta de Fidel Castro en la gestión pública en la sociedad cubana",
     "fuente": "Rebelión · Cuba",
@@ -340,23 +358,5 @@
     "archivo": "b86e37725bedc6ec.mp3",
     "bytes": 6864768,
     "timestamp": 1785852962
-  },
-  {
-    "id": "12333baa925f41e3",
-    "titulo": "Una educación desde y al servicio del pueblo",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/",
-    "archivo": "12333baa925f41e3.mp3",
-    "bytes": 2479824,
-    "timestamp": 1785175260
-  },
-  {
-    "id": "13cf09081fb4ae71",
-    "titulo": "La farsa del informe contra Cuba",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-farsa-del-informe-contra-cuba/",
-    "archivo": "13cf09081fb4ae71.mp3",
-    "bytes": 2848032,
-    "timestamp": 1785175232
   }
 ]

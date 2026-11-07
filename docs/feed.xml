@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Cuba ante la razón genocida (Parte II)</title>
+      <description>Rebelión · Cuba — https://rebelion.org/cuba-ante-la-razon-genocida-parte-ii/</description>
+      <link>https://rebelion.org/cuba-ante-la-razon-genocida-parte-ii/</link>
+      <guid isPermaLink="false">7af2fb4b475943f6</guid>
+      <pubDate>Sat, 07 Nov 2026 17:37:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/7af2fb4b475943f6.mp3" length="15759360" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuando la sanidad cubana humillaba a Estados Unidos</title>
       <description>Rebelión · Cuba — https://rebelion.org/cuando-la-sanidad-cubana-humillaba-a-estados-unidos/</description>
       <link>https://rebelion.org/cuando-la-sanidad-cubana-humillaba-a-estados-unidos/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">9beaef469479a652</guid>
       <pubDate>Wed, 05 Aug 2026 14:12:54 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/9beaef469479a652.mp3" length="11407536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una guerra sin bombas</title>
-      <description>Cuba – Rebelion — https://rebelion.org/una-guerra-sin-bombas/</description>
-      <link>https://rebelion.org/una-guerra-sin-bombas/</link>
-      <guid isPermaLink="false">021d43d72ee67728</guid>
-      <pubDate>Tue, 04 Aug 2026 14:16:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/021d43d72ee67728.mp3" length="1756368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

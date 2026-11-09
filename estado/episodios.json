@@ -1,5 +1,14 @@
 [
   {
+    "id": "2c93f6718449534b",
+    "titulo": "Cuba frente al cerco de Washington",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/cuba-frente-al-cerco-de-washington/",
+    "archivo": "2c93f6718449534b.mp3",
+    "bytes": 2054592,
+    "timestamp": 1794261654
+  },
+  {
     "id": "7af2fb4b475943f6",
     "titulo": "Cuba ante la razón genocida (Parte II)",
     "fuente": "Rebelión · Cuba",
@@ -349,14 +358,5 @@
     "archivo": "04dc6b5b231c69c0.mp3",
     "bytes": 2023056,
     "timestamp": 1786108002
-  },
-  {
-    "id": "9beaef469479a652",
-    "titulo": "Los memes y toda la fanfarria vergonzante",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/",
-    "archivo": "9beaef469479a652.mp3",
-    "bytes": 11407536,
-    "timestamp": 1785939174
   }
 ]

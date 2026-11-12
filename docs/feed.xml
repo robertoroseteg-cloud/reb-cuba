@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>«La composición de la ANPP no es un espejo de la sociedad cubana actual»</title>
+      <description>Rebelión · Cuba — https://rebelion.org/la-composicion-de-la-anpp-no-es-un-espejo-de-la-sociedad-cubana-actual/</description>
+      <link>https://rebelion.org/la-composicion-de-la-anpp-no-es-un-espejo-de-la-sociedad-cubana-actual/</link>
+      <guid isPermaLink="false">209138280d982614</guid>
+      <pubDate>Thu, 12 Nov 2026 19:40:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/209138280d982614.mp3" length="7059456" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuba frente al cerco de Washington</title>
       <description>Rebelión · Cuba — https://rebelion.org/cuba-frente-al-cerco-de-washington/</description>
       <link>https://rebelion.org/cuba-frente-al-cerco-de-washington/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">7a8f69e5eed9401a</guid>
       <pubDate>Sat, 08 Aug 2026 12:52:22 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/7a8f69e5eed9401a.mp3" length="18367632" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Permitirán gobiernos amigos un genocidio contra Cuba?</title>
-      <description>Cuba – Rebelion — https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</description>
-      <link>https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</link>
-      <guid isPermaLink="false">04dc6b5b231c69c0</guid>
-      <pubDate>Fri, 07 Aug 2026 13:06:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/04dc6b5b231c69c0.mp3" length="2023056" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

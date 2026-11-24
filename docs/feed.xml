@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>El pasado viaje humano de Fidel y su tránsito de eternidad y siemprevida</title>
+      <description>Rebelión · Cuba — https://rebelion.org/el-pasado-viaje-humano-de-fidel-y-su-transito-de-eternidad-y-siemprevida/</description>
+      <link>https://rebelion.org/el-pasado-viaje-humano-de-fidel-y-su-transito-de-eternidad-y-siemprevida/</link>
+      <guid isPermaLink="false">adc5e1e071ac6058</guid>
+      <pubDate>Tue, 24 Nov 2026 22:00:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/adc5e1e071ac6058.mp3" length="2211408" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«La política hacia Cuba nunca se ha decidido en Miami, sino en Washington»</title>
       <description>Rebelión · Cuba — https://rebelion.org/la-politica-hacia-cuba-nunca-se-ha-decidido-en-miami-sino-en-washington/</description>
       <link>https://rebelion.org/la-politica-hacia-cuba-nunca-se-ha-decidido-en-miami-sino-en-washington/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">01cd65030705f778</guid>
       <pubDate>Wed, 12 Aug 2026 13:12:01 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/01cd65030705f778.mp3" length="5317344" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Entre Martí y Marx: la síntesis que hizo invencible a Cuba</title>
-      <description>Cuba – Rebelion — https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/</description>
-      <link>https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/</link>
-      <guid isPermaLink="false">db24b560c93cd4d1</guid>
-      <pubDate>Tue, 11 Aug 2026 13:10:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-cuba/episodios/db24b560c93cd4d1.mp3" length="17545392" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
